@@ -28,5 +28,10 @@
     <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 </div>
 <br>
+<div align='left'>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himprover&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himprover&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
