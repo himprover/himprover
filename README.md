@@ -29,6 +29,8 @@
 </div>
 <br>
 
+<div align="left">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=himprover&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
@@ -40,3 +42,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=himprover&theme=tokyonight" />
 </a>
+
+</div>
