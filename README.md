@@ -51,8 +51,8 @@
 
 ## 🙋‍♂️ Contact
 
-### ✉ joohyun@himprover.kr
+✉ joohyun@himprover.kr
 
-### 📱 82+ 10 9872 1701
+82+ 10 9872 1701
 
 </div>
