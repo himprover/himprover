@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="" target="_blank"><img src="https://img.shields.io/badge/#FFFFFF?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/#FFFFFF?style=flat-square&logo=HTML5&logoColor=#E34F26"></a>
 <!--
 **himprover/himprover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
