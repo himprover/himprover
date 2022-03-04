@@ -4,9 +4,10 @@
 
 <br>
 
-## 👋Portfolio Site
+## 👋My Site
 
-`himprover.kr` [Link](http://himprover.kr)
+Portfolio - `himprover.kr` [Link](http://himprover.kr)
+Blog - `velog.io/@himprover` [Link](https://velog.io/@himprover)
 
 ## 🛠Main Skills⚒
 
