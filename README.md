@@ -16,7 +16,6 @@ Blog - `velog.io/@himprover` [Link](https://velog.io/@himprover)
     <img src="https://img.shields.io/badge/React(Functional)-0088CC?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript(es6+)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
 </div>
 
 <br>
