@@ -46,6 +46,4 @@ Blog - `velog.io/@himprover` [Link](https://velog.io/@himprover)
 
 ✉ joohyun@himprover.kr
 
-82+ 10 9872 1701
-
 </div>
