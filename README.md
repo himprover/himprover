@@ -6,7 +6,7 @@
 
 ## 👋My Site
 
-Portfolio(OLD) - `himprover.kr` [Link](https://www.himprover.kr/)
+Portfolio(OLD) - `himprover.com` [Link](https://www.himprover.com/)
 
 Blog - `velog.io/@himprover` [Link](https://velog.io/@himprover)
 
