@@ -45,6 +45,6 @@ Blog - `velog.io/@himprover` [Link](https://velog.io/@himprover)
 
 ## 🙋‍♂️ Contact
 
-✉ hwang.improver@gmail.com
+✉ joohyun@himprover.com (hwang.improver@gmail.com)
 
 </div>
