@@ -10,6 +10,10 @@ Portfolio(OLD) - `himprover.com` [Link](https://www.himprover.com/)
 
 Blog - `velog.io/@himprover` [Link](https://velog.io/@himprover)
 
+LinkedIn - `linkedin.com/in/himprover` [Link](https://www.linkedin.com/in/himprover)
+
+Twitter - `twitter.com/himprover3` [Link](https://twitter.com/himprover3)
+
 ## 🛠Main Skills⚒
 
 <div align='left'>
