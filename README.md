@@ -8,7 +8,9 @@
 
 Portfolio(OLD) - `himprover.com` [Link](https://www.himprover.com/)
 
-Blog - `velog.io/@himprover` [Link](https://velog.io/@himprover)
+Tech Blog - `velog.io/@himprover` [Link](https://velog.io/@himprover)
+
+Translate Blog - `blog.himprover.com` [Link](https://blog.himprover.com/) 
 
 LinkedIn - `linkedin.com/in/himprover` [Link](https://www.linkedin.com/in/himprover)
 
