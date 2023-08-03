@@ -4,7 +4,13 @@
 
 <br>
 
-## 👋My Site
+## 📑 My CV
+
+CV(KOR) - https://www.himprover.com/CV_KOR
+
+CV(ENG) - https://www.himprover.com/CV_ENG
+
+## 👋 My Site
 
 Portfolio(OLD) - `himprover.com` [Link](https://www.himprover.com/)
 
