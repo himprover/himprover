@@ -6,9 +6,9 @@
 
 ## 📑 My CV
 
-CV(KOR) - https://www.himprover.com/CV_KOR
+CV(KOR) - `himprover.com/CV_KOR` [Link](https://www.himprover.com/CV_KOR)
 
-CV(ENG) - https://www.himprover.com/CV_ENG
+CV(ENG) - `himprover.com/CV_ENG` [Link](https://www.himprover.com/CV_ENG)
 
 ## 👋 My Site
 
