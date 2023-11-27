@@ -26,7 +26,7 @@ Twitter - `twitter.com/himprover3` [Link](https://twitter.com/himprover3)
 
 <div align='left'>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/React(Functional)-0088CC?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript(es6+)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
