@@ -37,15 +37,11 @@ Twitter - `twitter.com/himprover3` [Link](https://twitter.com/himprover3)
 
 <div align='left'>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 </div>
 <br>
 
 <div align="left">
 
-\\<!--<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himprover&theme=tokyonight&layout=compact" />-->
     
 </a>
 
